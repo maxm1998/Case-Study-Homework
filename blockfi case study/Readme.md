@@ -26,8 +26,8 @@ With this in mind, it would be suitable to find a common ground, allowing for ba
 
 ## Overview And Origin
 
-BlockFi is a Non bank lender, built around crypto currencies and blockchain technology, founded by Zac Prince (CEO), and Flori Marquez (SVP & Co-Founder) in January 2017. BlockFi has gone through 13 rounds of funding, t
-he first being $4 million in 2018. Since then BlockFi has received a total of $508 million dollars funding from over 48 Investors, including some big names in the industry like Mike Novogratz’s Galaxy digital, Coinbase Ventures, and a Partnership with the Winklevoss twins under the Gemini Trust Company.
+BlockFi is a Non bank lender, built around crypto currencies and blockchain technology, founded by Zac Prince (CEO), and Flori Marquez (SVP & Co-Founder) in January 2017. BlockFi has gone through 13 rounds of funding, 
+the first being $4 million in 2018. Since then BlockFi has received a total of $508 million dollars funding from over 48 Investors, including some big names in the industry like Mike Novogratz’s Galaxy digital, Coinbase Ventures, and a Partnership with the Winklevoss twins under the Gemini Trust Company.
 
 The idea For BlockFi came to be after Zac Prince was applying for a mortgage, in which trying to declare cryptocurrencies as assets triggered additional compliance checks, as they thought he was doing something illegal.
 This Shows a large flaw in the financial system, in which Genuine assets can not be recognised as such by large institutions, viewed as “risky”. For someone who has small income but made a lot of money investing early, or for someone young who wants to build future wealth and has most of their savings in digital assets, if a lender can not recognise these as assets for lending purposes, it forces them to either liquidate some assets for a deposit, or stop investing and focus on saving cash.
